@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="docs/logo.png" alt="PsyPhiClaw" width="200">
-
 # PsyPhiClaw
 
 **Where Psychology Meets Physiology**
@@ -9,11 +7,9 @@
 An open-source, AI-powered platform for multi-modal human behavioral insight
 
 [![GitHub](https://img.shields.io/badge/GitHub-psyphiclaw%2FPsyPhiClaw-181717?logo=github)](https://github.com/psyphiclaw/PsyPhiClaw)
-[![OpenClaw](https://img.shields.io/badge/Built%20on-OpenClaw-blue?logo=claws)](https://github.com/openclaw/openclaw)
+[![OpenClaw](https://img.shields.io/badge/Built%20on-OpenClaw-blue)](https://github.com/openclaw/openclaw)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Skills: 20](https://img.shields.io/badge/Skills-20%20modules-orange)](#-skill-overview)
-
-[English](README.md) • [中文](README-zh.md)
 
 </div>
 
@@ -259,7 +255,7 @@ PsyPhiClaw is released under the [MIT License](LICENSE).
 - [MNE-Python](https://mne.tools/) — EEG & fNIRS analysis
 - [NeuroKit2](https://neurolkit.github.io/) — Physiological signal processing
 - [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) — Facial behavior analysis
-- [EthoClaw](https://github.com/penciler-star/EthoClaw) — Inspiration for the OpenClaw skill architecture
+
 
 ---
 
