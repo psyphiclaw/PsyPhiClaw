@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/logo.png" alt="PsyPhiClaw" width="300">
+
 # PsyPhiClaw
 
 **Where Psychology Meets Physiology**
